@@ -45,3 +45,15 @@ sometime this wok.
 * Please let me know your best convenient time.
 
 > Do you know when she'll be back?
+
+---
+**Leaving a message**
+---
+-  Could you take a message for him?
+-  I'd like to leave her a message.
+-  Please tell Padmini that Meera called.
+-  Please ask her to call me back.
+-  She can reach me at 7708645321.
+-  Could you ask him to call me back?
+-  Please tell him that I'm in town.
+-  Please let her know that I would like to meet her.
